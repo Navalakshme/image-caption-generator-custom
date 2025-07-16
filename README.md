@@ -79,10 +79,11 @@ python Image_proj.py
 
 ---
 
-## 📷 Sample Output
+### Sample Caption Generated
 
-After running the script, you will see a generated caption for the test image using your trained model.
+![Sample Output](sample_output.png)
 
+*Caption: a duck walking through a field of grass*
 ---
 
 ## 📌 Author
