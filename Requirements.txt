@@ -1,0 +1,9 @@
+tensorflow>=2.10
+keras
+pandas
+numpy
+tqdm
+Pillow
+matplotlib
+transformers>=4.30
+torch>=2.0.0
